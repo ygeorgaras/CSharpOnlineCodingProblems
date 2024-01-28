@@ -1,0 +1,14 @@
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\bin\Debug\net8.0\CodingProblems.exe
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\bin\Debug\net8.0\CodingProblems.deps.json
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\bin\Debug\net8.0\CodingProblems.runtimeconfig.json
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\bin\Debug\net8.0\CodingProblems.dll
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\bin\Debug\net8.0\CodingProblems.pdb
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.AssemblyInfoInputs.cache
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.AssemblyInfo.cs
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.csproj.CoreCompileInputs.cache
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.dll
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\refint\CodingProblems.dll
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.pdb
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\CodingProblems.genruntimeconfig.cache
+C:\C#Projects\CodingProblems\CodingProblems\CodingProblems\obj\Debug\net8.0\ref\CodingProblems.dll
