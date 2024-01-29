@@ -9,8 +9,8 @@ namespace CodingProblems.LeetCode75
     internal class LeetCode
     {
         public LeetCode() {
-            Console.WriteLine("Leet coding");
-            MergeAlternately.mergeAlternately("hello", "hi");
+            //MergeAlternately.mergeAlternately("helloasdfasdf", "hi");
+            GreatestCommonDivisorOfStrings.GcdOfStrings("ABABAB", "ABAB");
         }
     }
 }
