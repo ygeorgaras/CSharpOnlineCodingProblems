@@ -10,7 +10,8 @@ namespace CodingProblems.LeetCode75
     {
         public LeetCode() {
             //MergeAlternately.mergeAlternately("helloasdfasdf", "hi");
-            GreatestCommonDivisorOfStrings.GcdOfStrings("ABABAB", "ABAB");
+            //GreatestCommonDivisorOfStrings.GcdOfStrings("ABABAB", "ABAB");
+            ExtraCandies.KidsWithCandies(new int[] { 3, 1, 4, 5, 2 }, 2);
         }
     }
 }

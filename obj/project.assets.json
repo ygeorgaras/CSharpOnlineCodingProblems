@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#Projects\\CodingProblems\\CodingProblems\\CodingProblems\\CodingProblems.csproj",
+      "projectUniqueName": "C:\\CSharpProjects\\CSharpOnlineCodingProblems\\CodingProblems.csproj",
       "projectName": "CodingProblems",
-      "projectPath": "C:\\C#Projects\\CodingProblems\\CodingProblems\\CodingProblems\\CodingProblems.csproj",
+      "projectPath": "C:\\CSharpProjects\\CSharpOnlineCodingProblems\\CodingProblems.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\C#Projects\\CodingProblems\\CodingProblems\\CodingProblems\\obj\\",
+      "outputPath": "C:\\CSharpProjects\\CSharpOnlineCodingProblems\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
