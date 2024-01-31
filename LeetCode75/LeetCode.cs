@@ -17,8 +17,10 @@ namespace CodingProblems.LeetCode75
             //Console.WriteLine(ReverseVowelOfString.reverseVowels("hello"));
             //ReverseWordsInString.reverseWords("a good   example");
             //ProductOfArrayExceptSelf.ProductExceptSelf(new int[] {1,2,3,4});
-            Console.Write(IncreaseTripletSequence.IncreasingTriplet(new int[] { 20, 100, 10, 12, 5, 13 }));
-
+            //Console.Write(IncreaseTripletSequence.IncreasingTriplet(new int[] { 20, 100, 10, 12, 5, 13 }));
+            //StringCompression.compress(new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'c','c' });
+            //MoveZeros.mZeros(new int[] { 1, 0, 0, 2, 0, 3, 13 });
+            Console.Write(IsSubsequence.isSubsequence("", ""));
         }
     }
 }
