@@ -15,7 +15,10 @@ namespace CodingProblems.LeetCode75
             //MaximumAverageSubarray.FindMaxAverage(new int[] { 1, 12, -5, -6, 50, 3 }, 4);
             //Console.WriteLine(CanPlaceFlowers.PlaceFlowers(new int[] { 0, 0, 0, 0, 0, 1, 0, 0 }, 0));
             //Console.WriteLine(ReverseVowelOfString.reverseVowels("hello"));
-            ReverseWordsInString.reverseWords("a good   example");
+            //ReverseWordsInString.reverseWords("a good   example");
+            //ProductOfArrayExceptSelf.ProductExceptSelf(new int[] {1,2,3,4});
+            Console.Write(IncreaseTripletSequence.IncreasingTriplet(new int[] { 20, 100, 10, 12, 5, 13 }));
+
         }
     }
 }
