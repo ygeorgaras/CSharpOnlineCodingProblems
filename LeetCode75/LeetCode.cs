@@ -23,7 +23,8 @@ namespace CodingProblems.LeetCode75
             //Console.Write(IsSubsequence.isSubsequence("", ""));
             //Console.Write(MaxOperations.maxOper(new int[] { 3, 1, 3, 4, 3 }, 6));
             //Console.Write(MaxOperations.maxOper(new int[] { 2, 5, 4, 4, 1, 3, 4, 4, 1, 4, 4, 1, 2, 1, 2, 2, 3, 2, 4, 2 }, 3));
-            Console.WriteLine(MaxVowels.maxVowelsInString("tryhard", 4));
+            //Console.WriteLine(MaxVowels.maxVowelsInString("tryhard", 4));
+            Console.WriteLine(LongestZero.longestSet(new int[] { 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0 }, 2));
         }
     }
 }
