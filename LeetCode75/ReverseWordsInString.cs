@@ -12,7 +12,7 @@ namespace CodingProblems.LeetCode75
         {
             string[] wordList = s.Split(" ");
             string reversedList = string.Empty;
-
+            
             for (int i = wordList.Length-1; i >= 0; i--)
             {
                 if (!(string.IsNullOrEmpty(wordList[i])))
